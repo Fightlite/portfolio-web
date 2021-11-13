@@ -14,9 +14,9 @@ const Technologies = () =>  {
   <Section id='tech' ref={element}>
     <SectionDivider />
     <motion.div variants={leftAppear} animate={controls} transition={{ delay: 0.1, type: 'fade'}}>
-    <SectionTitle>Technology</SectionTitle>
+    <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have worked with a range of technologies which is required and useful for front-end development.
+      I have worked with multi-languages and tools which is required for my position. Moreover, I used to deal extensively with responsive design along with typography, layouts, grid system, and color theory.
     </SectionText>
     </motion.div>
 
