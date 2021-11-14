@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Chat App',
-    description: "Nowsadays, the way people communicate has changed dramatically by internet, most conversations are done through messaging apps because of its convenience. So I built this chat app using ReactJs for front-end and back-end with StreamChat, verified by Twilio, hosted them on Heroku.",
+    description: "Nowadays, the way people communicating has changed dramatically by internet, most conversations are done through messaging apps because of its convenience. So I built this chat app using ReactJs for front-end and back-end with StreamChat, verified by Twilio, hosted them on Heroku.",
     image: '/images/4.jpg',
     tags: ['React', 'Getstream', 'Twilio', 'Heroku'],
     source: 'https://github.com/Fightlite/messenger-chat-app',

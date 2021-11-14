@@ -24,7 +24,7 @@ const Hero = (props) => {
       <SectionText>
         Welcome to my portfolio<br/>
         and let’s take a look at<br/>
-        the projects I have been built.
+        the projects I have built.
       </SectionText>
       <Button onClick={() => window.location = '#about'}>Discover</Button>
     </LeftSection>

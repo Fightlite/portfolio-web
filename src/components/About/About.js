@@ -25,9 +25,9 @@ const Timeline = () => {
         </ImageContainer>
 
         <ContentContainer>
-          <SectionText>After developing a range of projects, the key goal that I want to become the best Front-End developer in the nation, by working hard, productive, and the challenges faced every day with strong code-passion, self-learning, and applying new technology. I do intentionally focus on accessibility, performance, and speedy development.</SectionText>
+          <SectionText>After developing a range of projects, the key goal that I want to become the best Front-End developer in the nation, by working productively, and the challenges faced every day with strong code-passion, self-learning, and applying cutting-edge technologies. I do intentionally focus on accessibility, performance, and speedy development.</SectionText>
           <Button form>
-            <Link href='https://drive.google.com/file/d/1cXVTWkI3iNJ3tyGJdKzVP9uLdxo-G_IU/view?usp=sharing' target='_blank'>Download CV</Link>
+            <Link href='https://drive.google.com/file/d/1YVN7t2WGHbKCOl0PpyGjjkQetFW7VIdq/view?usp=sharing' target='_blank'>Download CV</Link>
           </Button>
         </ContentContainer>
       </AboutContainer>

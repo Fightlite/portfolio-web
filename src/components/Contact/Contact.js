@@ -46,7 +46,8 @@ const Contact = () => {
         <CompanyContainer>
           <Thank>Great! You are here.<br />
           Thank you for taking time to discover my portfolio.<br/>
-          If you think that I am meet your requirements. Feel free to contact me.
+          If you think that I am meet your requirements and suitable for the job.<br/>
+          Please feel free to contact me.
           </Thank>
         </CompanyContainer>
 
