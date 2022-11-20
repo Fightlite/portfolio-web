@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: "Movie App",
+    title: "Music App",
     description:
-      "In the COVID-19 outbreaks, many people stay at home and watch movies. So I decided to build this app, with the design of Netflix platform. The website is built up by ReactJS and Redux, using Stripe to pay for subscribing packages, and connect to Firebase for the database.",
+      "I like listening to music and music helps me to heal my soul. So I decided to build this app, with the design of the Spotify platform. The website is built up by ReactJS, Tailwind CSS, Redux, and uses RapidAPI to fetch the database.",
     image: "/images/1.png",
     tags: ["React", "Redux", "Firebase", "Stripe"],
-    source: "https://github.com/Fightlite/Netflix-clone-app",
-    visit: "https://netflix-app-c22a6.firebaseapp.com/",
+    source: "https://github.com/Fightlite/spotify-reactjs/tree/main/spotify",
+    visit: "https://spotify-react22.netlify.app/",
     id: 0,
   },
   {
